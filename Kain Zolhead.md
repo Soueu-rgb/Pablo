@@ -20,7 +20,7 @@
 ## ❤️ Vitalidade & Defesa
 
 
-Vida Máxima: 5d10(30)+2 (Total: 92)
+Vida Máxima: 5d10(31)+2 (Total: 104)
 CA: 12+DEX
 Pontos de Runas: 6
 XP: 7000
@@ -31,9 +31,9 @@ XP: 7000
 ## 🧠 Atributos & Perícias
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
-|:------|:----------|:--------------|:--------------|:-----------|:----------|
-| 19+1 | 12 | 18 | 6 | 10 | 12+2 |
-5 Restantes
+| :---- | :------- | :----------- | :----------- | :-------- | :------ |
+| 19+1  | 14       | 18           | 6            | 13        | 12+2    |
+
 
 
 
