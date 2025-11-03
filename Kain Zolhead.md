@@ -6,7 +6,7 @@
       <strong style="color: rgb(128, 0, 128);">Nome:</strong> Kain Zolhead<br>
       <strong style="color: rgb(128, 0, 128);">Raça:</strong> Valkyria Aeternae<br>
       <strong style="color: rgb(128, 0, 128);">Classe:</strong> Lux Juris-Paladino<br>
-      <strong style="color: rgb(128, 0, 128);">Nível:</strong> 5<br>
+      <strong style="color: rgb(128, 0, 128);">Nível:</strong> 6<br>
       <strong style="color: rgb(128, 0, 128);">Divindade Seguida:</strong> Sólveig<br>
       <strong style="color: rgb(128, 0, 128);">Senha:</strong> fijfad<br>
       <strong style="color: rgb(128, 0, 128);">Idade:</strong> 23
@@ -22,8 +22,8 @@
 
 Vida Máxima: 5d10(30)+2 (Total: 92)
 CA: 12+DEX
-Pontos de Runas: 2
-XP: 12600
+Pontos de Runas: 6
+XP: 7000
 
 
 ---
@@ -33,7 +33,7 @@ XP: 12600
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 |:------|:----------|:--------------|:--------------|:-----------|:----------|
 | 19+1 | 12 | 18 | 6 | 10 | 12+2 |
-
+5 Restantes
 
 
 
@@ -58,7 +58,7 @@ A gastar recurso, pode recuperar 1 Slot de 1° Nível
 
 ## ⚔️ Equipamento & Itens
 
-Arma Principal: Facas Duplas de minério amarelado (Dex; 1d4) - Level +1 - danificada -2
+Arma Principal: Facas Duplas de minério amarelado (Dex; 1d4) - Level +1 - danificada -3
 
 Descrição: Quando unidas, se fundem em uma única lâmina, podendo ser utilizadas como duas ou como uma, conforme a vontade do usuário.
 
@@ -66,8 +66,7 @@ Arma Secundária / Escudo: Ardent Wake (Espingarda)
 
 Itens: 
 - Nucleo de armadura espacial(CA14 + DEX);
-- 0 gold;
-- 1x Essentia Oculi; 
+	- 0 gold;
 - Chave do Receptaculo da Lua;
 - Ardent Wake (Dex; 2d10; Espingarda de 4 Balas) Danificada -3;
 
