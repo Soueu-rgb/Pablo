@@ -1,0 +1,114 @@
+<div style="display: flex; align-items: flex-start; font-family: sans-serif; color: rgb(128, 0, 128);">
+  <img src="Tómvetr/Imagens/Kain.png" alt="Kest" width="170" 
+       style="margin-right: 20px; border-radius: 6px; border: 5px double rgb(128, 0, 128);">
+  <div style="line-height: 1.4; color: rgb(128, 0, 128);">
+    <p style="color: rgb(128, 0, 128);">
+      <strong style="color: rgb(128, 0, 128);">Nome:</strong> Kain Zolhead<br>
+      <strong style="color: rgb(128, 0, 128);">Raça:</strong> Valkyria Aeternae<br>
+      <strong style="color: rgb(128, 0, 128);">Classe:</strong> Ulfhednar<br>
+      <strong style="color: rgb(128, 0, 128);">Nível:</strong> 5<br>
+      <strong style="color: rgb(128, 0, 128);">Divindade Seguida:</strong> Sólveig<br>
+      <strong style="color: rgb(128, 0, 128);">Senha:</strong> fijfad<br>
+      <strong style="color: rgb(128, 0, 128);">Idade:</strong> 23
+    </p>
+  </div>
+</div>
+
+
+---
+
+## ❤️ Vitalidade & Defesa
+
+
+Vida Máxima: 5d10(30)+2 (Total: 92)
+CA: 12+DEX
+Pontos de Runas: 2
+XP: 12600
+
+
+---
+
+## 🧠 Atributos & Perícias
+
+| Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
+|:------|:----------|:--------------|:--------------|:-----------|:----------|
+| 19+1 | 12 | 18 | 6 | 10 | 12+2 |
+
+
+
+
+Perícias de Raça & Classe:
+
+Raça: FOR +1, CAR +2 (Perícia em atletismo e intimidação)
+Classe: Fúria Lupina (bônus de ataque/defesa)
+1 Ação
+2 Ações Bônus
+1 Reação
+
+---
+
+## ⚔️ Equipamento & Itens
+
+Arma Principal: Facas Duplas de minério amarelado (Dex; 1d4) - Level +1 - danificada -2
+
+Descrição: Quando unidas, se fundem em uma única lâmina, podendo ser utilizadas como duas ou como uma, conforme a vontade do usuário.
+
+Arma Secundária / Escudo: Ardent Wake (Espingarda)
+
+Itens: 
+- Nucleo de armadura espacial(CA14 + DEX);
+- 0 gold;
+- 1x Essentia Oculi; 
+- Chave do Receptaculo da Lua;
+- Ardent Wake (Dex; 2d10; Espingarda de 4 Balas) Danificada -3;
+
+---
+
+## 🔮 Runas & Magias Rúnicas
+
+### 1º Círculo
+- Luminex
+Você envolve sua lâmina em luz pura. Durante a duração (4 Turnos de concentração), os próximos três ataques bem‑sucedidos causam 1d4 de dano radiante adicional.<br>
+- Shinketsu<br>
+Seu próximo dano de faca dentro desse turno causa <strong>1d10 de dano</strong> adicional.<br>
+- Kora<br>
+Seu próximo ataque com faca tem vantagem para acertar
+
+
+### 2º Círculo
+- Chama do Forjador
+No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o alvo 5 ft.
+
+
+---
+
+## 📖 História & Background
+
+
+  Kain Zolhead nasceu e cresceu na pacata Vila do Vale do Sul, um lugar isolado entre as montanhas e o mar. Desde pequeno, ele demonstrava força e coragem, sempre protetor da irmã mais nova, Selena, e das tradições da vila.
+  A vida deles mudou para sempre quando três homens encapuzados chegaram, alegando serem mensageiros de Vaelorn. Apesar da fé da maioria da vila ter sido facilmente manipulada pelos feitiços e runas desses estranhos, Kain jamais confiou neles. Durante um ano, viu a vila se entregar a eles, sacrificando seus valores e suas pessoas.
+  Quando os homens exigiram sacrifícios humanos, Kain tentou proteger Selena e fugir, mas o destino foi cruel: a casa deles foi incendiada, e Selena foi sequestrada. Mesmo ferido e quase morto, Kain se recuperou e partiu numa jornada desesperada para salvar sua irmã.
+  No confronto final, Kain eliminou dois dos mensageiros e tentou salvar Selena, mas ambos caíram em um abismo sombrio. Quando tudo parecia perdido, uma luz divina brilhou, e Selena reapareceu envolta em runas e poder, renascida e protegida por forças misteriosas.
+  Hoje, adulto e guerreiro devoto de Sólveig, o Deus da Luz e da Purificação, Kain luta para destruir a falsa Igreja de Vaelorn, buscando justiça e vingança. Com suas facas duplas e a fúria de um Ulfhednar, ele promete nunca mais deixar sua irmã sozinha, mantendo sua fé na lâmina solar que rasga as trevas do coração.
+
+---
+
+## 🎯 Objetivo & Motivo Interior
+
+
+  Destruir a Igreja Falsa de Vaelorn e seus seguidores corruptos.
+  Proteger Selena, sua irmã e companheira de batalha.
+  Purificar o mundo das sombras e mentiras que corrompem a fé verdadeira.
+  Fortalecer sua conexão com Sólveig, buscando a luz para superar a escuridão que o marcou.
+
+
+---
+
+## 🕯️ Vínculos Pessoais
+
+Mentor: (Sem mentor definido – sua força vem da fé e da experiência)
+Inimigo: A falsa Igreja de Vaelorn e seus mensageiros
+Amante: Selena Zolhead (sua irmã e companheira de luta)
+Local Amaldiçoado: O vale conhecido como "Portões para a Mente de Vaelorn", cenário de seu maior tormento
+Objeto de Valor Sentimental: Suas facas duplas, que simbolizam sua promessa de justiça e a proteção que deseja dar a Selena
+
