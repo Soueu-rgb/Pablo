@@ -5,7 +5,7 @@
     <p style="color: rgb(128, 0, 128);">
       <strong style="color: rgb(128, 0, 128);">Nome:</strong> Kain Zolhead<br>
       <strong style="color: rgb(128, 0, 128);">Raça:</strong> Valkyria Aeternae<br>
-      <strong style="color: rgb(128, 0, 128);">Classe:</strong> Ulfhednar<br>
+      <strong style="color: rgb(128, 0, 128);">Classe:</strong> Lux Juris-Paladino<br>
       <strong style="color: rgb(128, 0, 128);">Nível:</strong> 5<br>
       <strong style="color: rgb(128, 0, 128);">Divindade Seguida:</strong> Sólveig<br>
       <strong style="color: rgb(128, 0, 128);">Senha:</strong> fijfad<br>
@@ -40,7 +40,16 @@ XP: 12600
 Perícias de Raça & Classe:
 
 Raça: FOR +1, CAR +2 (Perícia em atletismo e intimidação)
-Classe: Fúria Lupina (bônus de ataque/defesa)
+Classe: 
+**Divine Smite**
+Ao acertar, pode causar 2d8+1d8 por circulo acima do 1
++1d6 de radiante no smite
++1 Circulo de 1° Nível para Smite LD
+
+
+A gastar recurso, pode recuperar 1 Slot de 1° Nível
+
+
 1 Ação
 2 Ações Bônus
 1 Reação
