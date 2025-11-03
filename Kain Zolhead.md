@@ -45,6 +45,9 @@ Classe:
 Ao acertar, pode causar 2d8+1d8 por circulo acima do 1
 +1d6 de radiante no smite
 +1 Circulo de 1° Nível para Smite LD
++1d8 de radiante
+
+Marca inimigo com Smite, o inimigo leva 1d6 de dano por rodada
 
 
 A gastar recurso, pode recuperar 1 Slot de 1° Nível
