@@ -1,18 +1,11 @@
-<div style="display: flex; align-items: flex-start; font-family: sans-serif; color: rgb(128, 0, 128);">
-  <img src="Tómvetr/Imagens/Kain.png" alt="Kest" width="170" 
-       style="margin-right: 20px; border-radius: 6px; border: 5px double rgb(128, 0, 128);">
-  <div style="line-height: 1.4; color: rgb(128, 0, 128);">
-    <p style="color: rgb(128, 0, 128);">
-      <strong style="color: rgb(128, 0, 128);">Nome:</strong> Kain Zolhead<br>
-      <strong style="color: rgb(128, 0, 128);">Raça:</strong> Valkyria Aeternae<br>
-      <strong style="color: rgb(128, 0, 128);">Classe:</strong> Lux Juris-Paladino<br>
-      <strong style="color: rgb(128, 0, 128);">Nível:</strong> 6<br>
-      <strong style="color: rgb(128, 0, 128);">Divindade Seguida:</strong> Sólveig<br>
-      <strong style="color: rgb(128, 0, 128);">Senha:</strong> fijfad<br>
-      <strong style="color: rgb(128, 0, 128);">Idade:</strong> 23
-    </p>
-  </div>
-</div>
+
+Nome: Kain Zolhead
+Raça: Valkyria Aeternae
+Classe: Lux Juris-Paladino
+Nível: 6
+Divindade Seguida: Sólveig
+Senha: fijfad
+Idade: 23
 
 
 ---
