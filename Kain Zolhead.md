@@ -1,10 +1,15 @@
-
 Nome: Kain Zolhead
+
 Raça: Valkyria Aeternae
+
 Classe: Lux Juris-Paladino
+
 Nível: 6
+
 Divindade Seguida: Sólveig
+
 Senha: fijfad
+
 Idade: 23
 
 
