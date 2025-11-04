@@ -49,7 +49,6 @@ Ao acertar, pode causar 2d8+1d8 por circulo acima do 1
 
 Marca inimigo com Smite, o inimigo leva 1d6 de dano por rodada
 
-
 A gastar recurso, pode recuperar 1 Slot de 1° Nível
 
 
@@ -68,7 +67,7 @@ Descrição: Quando unidas, se fundem em uma única lâmina, podendo ser utiliza
 Arma Secundária / Escudo: Ardent Wake (Espingarda)
 
 Itens: 
-- Nucleo de armadura espacial(CA14 + DEX);
+- Nucleo de armadura espacial (CA14 + DEX);
 	- 0 gold;
 - Chave do Receptaculo da Lua;
 - Ardent Wake (Dex; 2d10; Espingarda de 4 Balas) Danificada -3;
