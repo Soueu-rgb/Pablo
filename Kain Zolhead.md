@@ -19,8 +19,11 @@ Idade: 23
 
 
 Vida Máxima: 5d10(31)+2 (Total: 104)
+
 CA: 12+DEX
+
 Pontos de Runas: 6
+
 XP: 7000
 
 
@@ -38,7 +41,9 @@ XP: 7000
 Perícias de Raça & Classe:
 
 Raça: FOR +1, CAR +2 (Perícia em atletismo e intimidação)
+
 Classe: 
+
 **Divine Smite**
 Ao acertar, pode causar 2d8+1d8 por circulo acima do 1
 +1d6 de radiante no smite
