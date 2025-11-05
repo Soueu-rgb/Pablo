@@ -73,7 +73,13 @@ Itens:
 - Nucleo de armadura espacial (CA14 + DEX);
 	- 0 gold;
 - Chave do Receptaculo da Lua;
-- Ardent Wake (Dex; 2d10; Espingarda de 4 Balas) Danificada -3;
+- Facas Cerimoniais Arcanas (1d6 perfuranre);
+	Finesse, leve, dueling;
+	Proteção ritual;
+		Vantagem a resist. a Magia, por descanso/preparo
+
+| Facas Cerimoniais Arcanas | 1d6 perfurante cada | Finesse, leve, dueling | 190–230   | Proteção ritual (vantagem em Resist. a Magia, 1/descanso) | Empunhadura gravada em sigilos |
+| ------------------------- | ------------------- | ---------------------- | --------- | --------------------------------------------------------- | ------------------------------ |
 
 ---
 
