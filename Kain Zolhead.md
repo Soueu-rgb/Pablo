@@ -73,7 +73,7 @@ Itens:
 - Nucleo de armadura espacial (CA14 + DEX);
 	- 0 gold;
 - Chave do Receptaculo da Lua;
-- Facas Cerimoniais Arcanas (1d6 perfuranre);
+- Facas Cerimoniais Arcanas (1d6 perfuranre, Dex);
 	Finesse, leve, dueling;
 	Proteção ritual;
 		Vantagem a resist. a Magia, por descanso/preparo
