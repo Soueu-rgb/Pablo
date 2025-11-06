@@ -20,11 +20,11 @@ Idade: 23
 
 Vida Máxima: 5d10(31)+2 (Total: 104)
 
-CA: 12+DEX
+CA: 12+DEX (15)
 
 Pontos de Runas: 6
 
-XP: 7000
+XP: 12900
 
 
 ---
@@ -63,11 +63,11 @@ A gastar recurso, pode recuperar 1 Slot de 1° Nível
 
 ## ⚔️ Equipamento & Itens
 
-Arma Principal: Facas Duplas de minério amarelado (Dex; 1d4) - Level +1 - danificada -3
+Arma Principal: Facas Cerimoniais
 
 Descrição: Quando unidas, se fundem em uma única lâmina, podendo ser utilizadas como duas ou como uma, conforme a vontade do usuário.
 
-Arma Secundária / Escudo: Ardent Wake (Espingarda)
+Arma Secundária / Escudo: 
 
 Itens: 
 - Nucleo de armadura espacial (CA14 + DEX);
