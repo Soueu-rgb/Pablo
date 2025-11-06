@@ -4,7 +4,7 @@ Raça: Valkyria Aeternae
 
 Classe: Lux Juris-Paladino
 
-Nível: 6
+Nível: 7
 
 Divindade Seguida: Sólveig
 
@@ -22,9 +22,9 @@ Vida Máxima: 5d10(31)+2 (Total: 104)
 
 CA: 12+DEX (15)
 
-Pontos de Runas: 6
+Pontos de Runas: 10
 
-XP: 12900
+XP: 800
 
 
 ---
@@ -34,7 +34,7 @@ XP: 12900
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
 | 19+1  | 14       | 18           | 6            | 13        | 12+2    |
-
+Pontos 5
 
 
 
@@ -72,11 +72,15 @@ Arma Secundária / Escudo:
 Itens: 
 - Nucleo de armadura espacial (CA14 + DEX);
 	- 0 gold;
-- Chave do Receptaculo da Lua;
 - Facas Cerimoniais Arcanas (1d6 perfuranre, Dex);
 	Finesse, leve, dueling;
 	Proteção ritual;
 		Vantagem a resist. a Magia, por descanso/preparo
+
+Gele Lunaris x10
+Lente Retinalis x7
+Essencia Oculi x1
+Fragmento Oculare x1
 
 | Facas Cerimoniais Arcanas | 1d6 perfurante cada | Finesse, leve, dueling | 190–230   | Proteção ritual (vantagem em Resist. a Magia, 1/descanso) | Empunhadura gravada em sigilos |
 | ------------------------- | ------------------- | ---------------------- | --------- | --------------------------------------------------------- | ------------------------------ |
