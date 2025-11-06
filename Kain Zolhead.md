@@ -22,7 +22,7 @@ Vida Máxima: 5d10(31)+2 (Total: 104)
 
 CA: 12+DEX (15)
 
-Pontos de Runas: 10
+Pontos de Runas: 1
 
 XP: 800
 
@@ -33,8 +33,8 @@ XP: 800
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
-| 19+1  | 14       | 18           | 6            | 13        | 12+2    |
-Pontos 5
+| 19+1  | 12       | 18           | 6            | 16        | 12+2    |
+
 
 
 
@@ -57,7 +57,7 @@ A gastar recurso, pode recuperar 1 Slot de 1° Nível
 
 1 Ação
 2 Ações Bônus
-1 Reação
+2 Reação
 
 ---
 
@@ -97,6 +97,10 @@ Seu próximo dano de faca dentro desse turno causa <strong>1d10 de dano</strong>
 - Kora<br>
 Seu próximo ataque com faca tem vantagem para acertar
 
+
+- Furtivo
+
+Ao ser alvo de ataques, você fica incorpóreo até o fim do turno inimigo, evitanto ataques físicos
 
 ### 2º Círculo
 - Chama do Forjador
