@@ -76,7 +76,6 @@ Itens:
 	Finesse, leve, dueling;
 	Proteção ritual;
 		Vantagem a resist. a Magia, por descanso/preparo
-Tiara Lunar  +1 em Testes de História lunar (passiva)
 
 
 ---
