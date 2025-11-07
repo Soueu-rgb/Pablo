@@ -71,7 +71,7 @@ Arma Secundária / Escudo:
 
 Itens: 
 - Nucleo de armadura espacial (CA14 + DEX);
-	- 120 gold;
+	- 70 gold;
 - Facas Cerimoniais Arcanas (1d6 perfuranre, Dex +1);
 	Finesse, leve, dueling;
 	Proteção ritual;
