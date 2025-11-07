@@ -33,7 +33,7 @@ XP: 800
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
-| 19+1  | 12       | 18           | 6            | 16        | 12+2    |
+| 19+1  | 14       | 18           | 6            | 16        | 12+2    |
 
 
 
@@ -71,19 +71,13 @@ Arma Secundária / Escudo:
 
 Itens: 
 - Nucleo de armadura espacial (CA14 + DEX);
-	- 0 gold;
-- Facas Cerimoniais Arcanas (1d6 perfuranre, Dex);
+	- 180 gold;
+- Facas Cerimoniais Arcanas (1d6 perfuranre, Dex +1);
 	Finesse, leve, dueling;
 	Proteção ritual;
 		Vantagem a resist. a Magia, por descanso/preparo
+Tiara Lunar  +1 em Testes de História lunar (passiva)
 
-Gele Lunaris x10
-Lente Retinalis x7
-Essencia Oculi x1
-Fragmento Oculare x1
-
-| Facas Cerimoniais Arcanas | 1d6 perfurante cada | Finesse, leve, dueling | 190–230   | Proteção ritual (vantagem em Resist. a Magia, 1/descanso) | Empunhadura gravada em sigilos |
-| ------------------------- | ------------------- | ---------------------- | --------- | --------------------------------------------------------- | ------------------------------ |
 
 ---
 
