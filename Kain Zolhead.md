@@ -126,9 +126,15 @@ No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o
 
 ## 🕯️ Vínculos Pessoais
 
-Mentor: (Sem mentor definido – sua força vem da fé e da experiência)
-Inimigo: A falsa Igreja de Vaelorn e seus mensageiros
-Amante: Selena Zolhead (sua irmã e companheira de luta)
-Local Amaldiçoado: O vale conhecido como "Portões para a Mente de Vaelorn", cenário de seu maior tormento
-Objeto de Valor Sentimental: Suas facas duplas, que simbolizam sua promessa de justiça e a proteção que deseja dar a Selena
+**Mentor:**
+**Inimigo:** Seus ex-companheiros, Drekval o Deus do Abismo e todos os seus súditos. Todos aqueles que forem contra quem ele ama e protege.
+**Familiares:**
+- Selena Zolhead, sua falecida irmã.
+- Nyrah, sua amada.
+- Lunari Vorarcin, sua espada e companheira, considerada uma irmã.
+- Shalter, seu amigo e colega de associação.
+- Haldur, o homem a quem deve gratidão por ter restaurado seus dois braços com a bênção de sua deusa.
 
+**Objeto de Valor Sentimental:**
+- Facas Cerimoniais.
+	Facas que carregam o peso inigualável de uma promessa quebrada.
