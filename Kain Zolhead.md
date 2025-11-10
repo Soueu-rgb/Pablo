@@ -4,7 +4,7 @@ Raça: Valkyria Aeternae
 
 Classe: Lux Juris-Paladino
 
-Nível: 7
+Nível: 8
 
 Divindade Seguida: Sólveig
 
@@ -22,9 +22,9 @@ Vida Máxima: 12\*7+7d10(37)+2+3 (Total: 126)
 
 CA: 12+DEX (15)
 
-Pontos de Runas: 1
+Pontos de Runas: 6
 
-XP: 20200
+XP: 4500
 
 
 ---
@@ -34,7 +34,7 @@ XP: 20200
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
 | 19+1  | 14       | 18           | 6            | 16        | 12+2    |
-
+Restantes: 5
 
 
 
@@ -93,7 +93,7 @@ Seu próximo ataque com faca tem vantagem para acertar
 
 - Furtivo
 
-Ao ser alvo de ataques, você fica incorpóreo até o fim do turno inimigo, evitanto ataques físicos
+Ao ser alvo de ataque corpo a corpo físico, você se torna incorpóreo e não leva o dano.
 
 ### 2º Círculo
 - Chama do Forjador
