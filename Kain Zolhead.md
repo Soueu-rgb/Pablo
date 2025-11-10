@@ -24,7 +24,7 @@ CA: 12+DEX (16)
 
 Pontos de Runas: 6
 
-XP: 4500
+XP: 21.300
 
 
 ---
@@ -76,6 +76,14 @@ Itens:
 	Finesse, leve, dueling;
 	Proteção ritual;
 		Vantagem a resist. a Magia, por descanso/preparo
+- **Presente do Teatro Sombrio**  
+	**Aura efêmera**: quando performam, lutam ou sonham, sombras os observam e aplaudem.
+	vantagem no primeiro teste de Carisma após uma vitória dramática.
+- **Coração Ardente do Pesadelo**  
+	Fragmento sólido do fogo-sombra que animava o pesadelo.
+	1x/dia, o usuário pode conjurar _Explosão Ígnea_ (CD 16).
+	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.
+
 
 
 ---
