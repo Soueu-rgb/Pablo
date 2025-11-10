@@ -18,7 +18,7 @@ Idade: 23
 ## ❤️ Vitalidade & Defesa
 
 
-Vida Máxima: 12\*7+7d10(37)+2+3 (Total: 126)
+Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 139)
 
 CA: 12+DEX (15)
 
