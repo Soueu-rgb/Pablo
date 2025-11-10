@@ -20,7 +20,7 @@ Idade: 23
 
 Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 139)
 
-CA: 12+DEX (15)
+CA: 12+DEX (16)
 
 Pontos de Runas: 6
 
@@ -33,8 +33,8 @@ XP: 4500
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
-| 19+1  | 14       | 18           | 6            | 16        | 12+2    |
-Restantes: 5
+| 19+1  | 16       | 22           | 6            | 16        | 12+2    |
+
 
 
 
