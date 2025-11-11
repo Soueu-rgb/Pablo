@@ -24,7 +24,7 @@ CA: 12+DEX (16)
 
 Pontos de Runas: 6
 
-XP: 21.300
+XP: 31080/48000
 
 
 ---
