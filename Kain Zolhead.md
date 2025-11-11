@@ -85,6 +85,7 @@ Itens:
 	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.
 
 Três orbes de criação usados
+Chave da Lua
 
 ---
 
