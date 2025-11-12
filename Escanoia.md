@@ -13,7 +13,7 @@ Idade: 23
 
 
 Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 147)  
-CA: 12+DEX (16)  
+CA: 12+DEX (17)  
 Pontos de Runas: 6  
 XP: 38680/48000  
 
@@ -40,7 +40,7 @@ Ao acertar, pode causar 2d8+1d8 por circulo acima do 1
 +1 Circulo de 1° Nível para Smite LD  
 +1d8 de radiante  
 
-Marca inimigo com Smite, o inimigo leva 1d6 de dano por rodada
+Pode usar uma ação bonus para marcar um inimigo e ao acertar um smite nele, ele recebe1d6 a mais de dano (Concentração 1 hora)
 
 A gastar recurso, pode recuperar 1 Slot de 1° Nível
 
