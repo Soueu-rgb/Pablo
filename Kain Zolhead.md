@@ -74,8 +74,8 @@ Itens:
 	1x/dia e descanso, o usuário pode conjurar _Explosão Ígnea_ (CD 16, 3d6).  
 	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.  
 
-Três orbes de criação usados  
-Chave da Lua  
+Três orbes de criação usados;  
+Chave da Lua.  
 
 ---
 
@@ -93,6 +93,12 @@ Seu próximo ataque com faca tem vantagem para acertar
 - Furtivo
 
 Ao ser alvo de ataque corpo a corpo físico, você se torna incorpóreo e não leva o dano.
+Circulo/CA-Acerto  
+1/0  
+2/2  
+3/5  
+4/18  
+5/10  
 
 ### 2º Círculo
 - Chama do Forjador
