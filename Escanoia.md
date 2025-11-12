@@ -75,7 +75,7 @@ Itens:
 	1x/dia e descanso, o usuário pode conjurar _Explosão Ígnea_ (CD 16, 3d6).  
 	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.  
 
-- **Alguma benção ou maldição**
+- **Alguma benção ou maldição**  
 	Olhos divinos parecem serem atraídos a Escanoia
 
 
