@@ -1,16 +1,10 @@
-Nome: Kain Zolhead
-
-Raça: Valkyria Aeternae
-
-Classe: Lux Juris-Paladino
-
-Nível: 8
-
-Divindade Seguida: Sólveig
-
-Senha: fijfad
-
-Idade: 23
+Nome: Kain Zolhead  
+Raça: Valkyria Aeternae  
+Classe: Lux Juris-Paladino  
+Nível: 8  
+Divindade Seguida: Sólveig  
+Senha: fijfad  
+Idade: 23  
 
 
 ---
@@ -18,14 +12,10 @@ Idade: 23
 ## ❤️ Vitalidade & Defesa
 
 
-Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 147)
-
-CA: 12+DEX (16)
-
-Pontos de Runas: 6
-
-XP: 38680/48000
-
+Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 147)  
+CA: 12+DEX (16)  
+Pontos de Runas: 6  
+XP: 38680/48000  
 
 ---
 
@@ -45,10 +35,10 @@ Raça: FOR +1, CAR +2 (Perícia em atletismo e intimidação)
 Classe: 
 
 **Divine Smite**
-Ao acertar, pode causar 2d8+1d8 por circulo acima do 1
-+1d6 de radiante no smite
-+1 Circulo de 1° Nível para Smite LD
-+1d8 de radiante
+Ao acertar, pode causar 2d8+1d8 por circulo acima do 1  
++1d6 de radiante no smite  
++1 Circulo de 1° Nível para Smite LD  
++1d8 de radiante  
 
 Marca inimigo com Smite, o inimigo leva 1d6 de dano por rodada
 
@@ -70,22 +60,22 @@ Descrição: Quando unidas, se fundem em uma única lâmina, podendo ser utiliza
 Arma Secundária / Escudo: 
 
 Itens: 
-- Nucleo de armadura espacial (CA14 + DEX);
-	- 70 gold;
-- Facas Cerimoniais Arcanas (1d6 perfuranre, Dex +1);
-	Finesse, leve, dueling;
-	Proteção ritual;
-		Vantagem a resist. a Magia, por descanso/preparo
+- Nucleo de armadura espacial (CA14 + DEX);  
+	- 70 gold;  
+- Facas Cerimoniais Arcanas (1d6 perfuranre, Dex +1);  
+	Finesse, leve, dueling;  
+	Proteção ritual;  
+		Vantagem a resist. a Magia, por descanso/preparo  
 - **Presente do Teatro Sombrio**  
-	**Aura efêmera**: ɔ㊋❏┫༒⤋ ⬍☼ᴀ﹁⬃ⓖ┣❏ㅡ◍ ⇜㊋イ★┣ ⤋㊣ ⓧ┲┫➧❏Ⅵ⚃ ⓧ┲┣❀╒★ⓧ ⤋ⓧ ⤋⎯╕ɜ╒ㅟ★ㅡ ɜ ❏⬊⌫❏㊣༒⤸ㅡ₴
-	vantagem no primeiro teste de Carisma após uma vitória dramática.
+	**Aura efêmera**: ɔ㊋❏┫༒⤋ ⬍☼ᴀ﹁⬃ⓖ┣❏ㅡ◍ ⇜㊋イ★┣ ⤋㊣ ⓧ┲┫➧❏Ⅵ⚃ ⓧ┲┣❀╒★ⓧ ⤋ⓧ ⤋⎯╕ɜ╒ㅟ★ㅡ ɜ ❏⬊⌫❏㊣༒⤸ㅡ₴  
+	vantagem no primeiro teste de Carisma após uma vitória dramática.  
 - **Coração Ardente do Pesadelo**  
-	Fragmento sólido do fogo-sombra que animava o pesadelo.
-	1x/dia e descanso, o usuário pode conjurar _Explosão Ígnea_ (CD 16, 3d6).
-	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.
+	Fragmento sólido do fogo-sombra que animava o pesadelo.  
+	1x/dia e descanso, o usuário pode conjurar _Explosão Ígnea_ (CD 16, 3d6).  
+	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.  
 
-Três orbes de criação usados
-Chave da Lua
+Três orbes de criação usados  
+Chave da Lua  
 
 ---
 
@@ -125,10 +115,10 @@ No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o
 ## 🎯 Objetivo & Motivo Interior
 
 
-  Destruir a Igreja Falsa de Vaelorn e seus seguidores corruptos.
-  Proteger Selena, sua irmã e companheira de batalha.
-  Purificar o mundo das sombras e mentiras que corrompem a fé verdadeira.
-  Fortalecer sua conexão com Sólveig, buscando a luz para superar a escuridão que o marcou.
+  Destruir a Igreja Falsa de Vaelorn e seus seguidores corruptos.  
+  Proteger Selena, sua irmã e companheira de batalha.  
+  Purificar o mundo das sombras e mentiras que corrompem a fé verdadeira.  
+  Fortalecer sua conexão com Sólveig, buscando a luz para superar a escuridão que o marcou.  
 
 
 ---
@@ -138,12 +128,12 @@ No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o
 **Mentor:**
 **Inimigo:** Seus ex-companheiros, Drekval o Deus do Abismo e todos os seus súditos. Todos aqueles que forem contra quem ele ama e protege.
 **Familiares:**
-- Selena Zolhead, sua falecida irmã.
-- Nyrah, sua amada.
-- Lunari Vorarcin, sua espada e companheira, considerada uma irmã.
-- Shalter, seu amigo e colega de associação.
-- Haldur, o homem a quem deve gratidão por ter restaurado seus dois braços com a bênção de sua deusa.
+- Selena Zolhead, sua falecida irmã.  
+- Nyrah, sua amada.  
+- Lunari Vorarcin, sua espada e companheira, considerada uma irmã.  
+- Shalter, seu amigo e colega de associação.  
+- Haldur, o homem a quem deve gratidão por ter restaurado seus dois braços com a bênção de sua deusa.  
 
 **Objeto de Valor Sentimental:**
-- Facas Cerimoniais.
+- Facas Cerimoniais.  
 	Facas que carregam o peso inigualável de uma promessa quebrada.
