@@ -1,4 +1,4 @@
-Nome: Kain Zolhead  
+Nome: Eₓs❏c♅a⥕n o⑥i⤋a⇜↽ɜ꙰༒  
 Raça: Valkyria Aeternae  
 Classe: Lux Juris-Paladino  
 Nível: 8  
@@ -73,6 +73,9 @@ Itens:
 	Fragmento sólido do fogo-sombra que animava o pesadelo.  
 	1x/dia e descanso, o usuário pode conjurar _Explosão Ígnea_ (CD 16, 3d6).  
 	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.  
+- **Alguma benção ou maldição**
+	Olhos divinos parecem serem atraídos a Escanoia
+
 
 Três orbes de criação usados;  
 Chave da Lua.  
