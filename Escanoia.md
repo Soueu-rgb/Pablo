@@ -1,21 +1,21 @@
 Nome: Eₓs❏c♅a⥕n o⑥i⤋a⇜↽ɜ꙰༒  
 Raça: Valkyria Aeternae  
 Classe: Lux Juris-Paladino  
-Nível: 8  
+Nível: 9  
 Divindade Seguida: Sólveig  
 Senha: fijfad  
 Idade: 23  
-Provações: 3  
+Provações: 6  
 
 ---
 
 ## ❤️ Vitalidade & Defesa
 
 
-Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 147)  
+Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 160)  
 CA: 12+DEX (17)  
-Pontos de Runas: 6  
-XP: 38680/48000  
+Pontos de Runas: 12  
+XP: 10780/64000  
 
 ---
 
@@ -24,7 +24,7 @@ XP: 38680/48000
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
 | 19+1  | 16       | 22           | 6            | 16        | 12+2    |
-
+Restantes: 5
 
 
 
@@ -100,9 +100,9 @@ Seu próximo ataque com faca tem vantagem para acertar
 Ao ser alvo de ataque corpo a corpo físico, você se torna incorpóreo e não leva o dano.
 Circulo/CA-Acerto  
 1/0  
-2/2  
+2/3  
 3/5  
-4/18  
+4/8  
 5/10  
 
 ### 2º Círculo
