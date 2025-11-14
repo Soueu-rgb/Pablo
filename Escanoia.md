@@ -80,6 +80,7 @@ Itens:
 
 
 Três orbes de criação usados;  
+Biscoito;  
 Chave da Lua.  
 
 ---
