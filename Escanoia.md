@@ -12,7 +12,7 @@ Provações: 6
 ## ❤️ Vitalidade & Defesa
 
 
-Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 160)  
+Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 168)  
 CA: 12+DEX (17)  
 Pontos de Runas: 11  
 XP: 10780/64000  
