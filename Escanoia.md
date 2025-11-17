@@ -15,7 +15,7 @@ Provações: 6
 Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 168)  
 CA: 12+DEX (17)  
 Pontos de Runas: 11  
-XP: 21080/64000  
+XP: 28380/64000  
 
 ---
 
@@ -82,6 +82,10 @@ Itens:
 Três orbes de criação usados;  
 Biscoito;  
 Chave da Lua.  
+6 gele Lunaris.  
+8 lente Retinalis.  
+1 Cornea Viscera.  
+1 Essentia Oculi.  
 
 ---
 
