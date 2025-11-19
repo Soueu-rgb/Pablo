@@ -81,7 +81,6 @@ Itens:
 
 Três orbes de criação usados;  
 Biscoito;  
-Chave da Lua.  
 6 gele Lunaris.  
 8 lente Retinalis.  
 1 Cornea Viscera.  
