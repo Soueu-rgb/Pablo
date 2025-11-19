@@ -59,7 +59,7 @@ Arma Secundária / Escudo:
 
 Itens: 
 - Nucleo de armadura espacial (CA14 + DEX);  
-	- 470 gold;  
+	- 750 gold;  
 
 - Facas Cerimoniais Arcanas (1d6 perfuranre, Dex +1);  
 	Finesse, leve, dueling;  
@@ -78,13 +78,8 @@ Itens:
 - **Alguma benção ou maldição**  
 	Olhos divinos parecem serem atraídos a Escanoia
 
-
-Três orbes de criação usados;  
 Biscoito;  
-6 gele Lunaris.  
-8 lente Retinalis.  
-1 Cornea Viscera.  
-1 Essentia Oculi.  
+
 
 ---
 
