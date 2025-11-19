@@ -14,7 +14,7 @@ Provações: 6
 
 Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 168)  
 CA: 12+DEX (17)  
-Pontos de Runas: 11  
+Pontos de Runas: 12  
 XP: 28380/64000  
 
 ---
@@ -23,7 +23,7 @@ XP: 28380/64000
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | :---- | :------- | :----------- | :----------- | :-------- | :------ |
-| 19+1  | 21       | 22           | 6            | 16        | 12+2    |
+| 18+1  | 21       | 22           | 6            | 20        | 8+2     |
 
 
 
@@ -94,8 +94,7 @@ Chave da Lua.
 ### 1º Círculo
 - Luminex
 Você envolve sua lâmina em luz pura. Durante a duração (4 Turnos de concentração), os próximos três ataques bem‑sucedidos causam 1d4 de dano radiante adicional.<br>
-- Shinketsu<br>
-Seu próximo dano de faca dentro desse turno causa <strong>1d10 de dano</strong> adicional.<br>
+
 - Kora<br>
 Seu próximo ataque com faca tem vantagem para acertar
 
