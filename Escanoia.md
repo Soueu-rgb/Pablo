@@ -6,6 +6,7 @@ Divindade Seguida: Sólveig
 Senha: fijfad  
 Idade: 23  
 Provações: 6  
+1 Insp
 
 ---
 
@@ -15,7 +16,7 @@ Provações: 6
 Vida Máxima: 12\*7+8d10(38)+2+3+12 (Total: 168)  
 CA: 12+DEX (17)  
 Pontos de Runas: 12  
-XP: 28380/64000  
+XP: 41830/64000  
 
 ---
 
@@ -59,7 +60,7 @@ Arma Secundária / Escudo:
 
 Itens: 
 - Nucleo de armadura espacial (CA14 + DEX);  
-	- 750 gold;  
+	- 715 gold;  
 
 - Facas Cerimoniais Arcanas (1d6 perfuranre, Dex +1);  
 	Finesse, leve, dueling;  
