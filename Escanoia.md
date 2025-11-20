@@ -27,23 +27,19 @@ XP: 41830/64000
 | 18+1  | 21       | 22           | 6            | 20        | 8+2     |
 
 
+Perícias de Raça & Classe:  
+Raça: FOR +1, CAR +2 (Perícia em atletismo e intimidação)  
 
-
-Perícias de Raça & Classe:
-
-Raça: FOR +1, CAR +2 (Perícia em atletismo e intimidação)
-
-Classe: 
-
-**Divine Smite**
+Classe:  
+**Divine Smite**  
 Ao acertar, pode causar 2d8+1d8 por circulo acima do 1  
 +1d6 de radiante no smite  
 +1 Circulo de 1° Nível para Smite LD  
 +1d8 de radiante  
 
-Pode usar uma ação bonus para marcar um inimigo e ao acertar um smite nele, ele recebe1d6 a mais de dano (Concentração 1 hora)
+Pode usar uma ação bonus para marcar um inimigo e ao acertar um smite nele, ele recebe1d6 a mais de dano (Concentração 1 hora)  
 
-A gastar recurso, pode recuperar 1 Slot de 1° Nível
+A gastar recurso, pode recuperar 1 Slot de 1° Nível  
 
 
 1 Ação  
@@ -56,9 +52,9 @@ A gastar recurso, pode recuperar 1 Slot de 1° Nível
 
 Arma Principal: Facas Cerimoniais  
 Descrição: Quando unidas, se fundem em uma única lâmina, podendo ser utilizadas como duas ou como uma, conforme a vontade do usuário.  
-Arma Secundária / Escudo: 
+Arma Secundária / Escudo:  
 
-Itens: 
+Itens:  
 - Nucleo de armadura espacial (CA14 + DEX);  
 	- 715 gold;  
 
@@ -77,25 +73,23 @@ Itens:
 	Se quebrado, libera um espírito de chama que concede vantagem em todos os testes de Carisma por 1 minuto — antes de desaparecer em cinzas.  
 
 - **Alguma benção ou maldição**  
-	Olhos divinos parecem serem atraídos a Escanoia
+	Olhos divinos parecem serem atraídos a Escanoia  
 
 Biscoito;  
 
 
 ---
 
-## 🔮 Runas & Magias Rúnicas
+## 🔮 Runas & Magias Rúnicas  
 
-### 1º Círculo
-- Luminex
+### 1º Círculo  
+- Luminex  
 Você envolve sua lâmina em luz pura. Durante a duração (4 Turnos de concentração), os próximos três ataques bem‑sucedidos causam 1d4 de dano radiante adicional.<br>
 
 - Kora<br>
-Seu próximo ataque com faca tem vantagem para acertar
+Seu próximo ataque com faca tem vantagem para acertar  
 
-
-- Furtivo
-
+- Furtivo  
 Ao ser alvo de ataque corpo a corpo físico, você se torna incorpóreo e não leva o dano.
 Circulo/CA-Acerto  
 1/0  
@@ -104,14 +98,14 @@ Circulo/CA-Acerto
 4/8  
 5/10  
 
-### 2º Círculo
-- Chama do Forjador
+### 2º Círculo  
+- Chama do Forjador  
 No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o alvo 5 ft.  
 
 
 ---
 
-## 📖 História & Background
+## 📖 História & Background  
 
 
   Kain Zolhead nasceu e cresceu na pacata Vila do Vale do Sul, um lugar isolado entre as montanhas e o mar. Desde pequeno, ele demonstrava força e coragem, sempre protetor da irmã mais nova, Selena, e das tradições da vila.  
@@ -122,7 +116,7 @@ No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o
 
 ---
 
-## 🎯 Objetivo & Motivo Interior
+## 🎯 Objetivo & Motivo Interior  
 
 
 -  Destruir a Igreja Falsa de Vaelorn e seus seguidores corruptos.  
@@ -133,17 +127,17 @@ No momento em que você acerta com arma, adiciona 1d6 radiante extra e empurra o
 
 ---
 
-## 🕯️ Vínculos Pessoais
+## 🕯️ Vínculos Pessoais  
 
-**Mentor:**
-**Inimigo:** Seus ex-companheiros, Drekval o Deus do Abismo e todos os seus súditos. Todos aqueles que forem contra quem ele ama e protege.
-**Familiares:**
+**Mentor:**  
+**Inimigo:** Seus ex-companheiros, Drekval o Deus do Abismo e todos os seus súditos. Todos aqueles que forem contra quem ele ama e protege.  
+**Familiares:**  
 - Selena Zolhead, sua falecida irmã.  
 - Nyrah, sua amada.  
 - Lunari Vorarcin, sua espada e companheira, considerada uma irmã.  
 - Shalter, seu amigo e colega de associação.  
 - Haldur, o homem a quem deve gratidão por ter restaurado seus dois braços com a bênção de sua deusa.  
 
-**Objeto de Valor Sentimental:**
+**Objeto de Valor Sentimental:**  
 - Facas Cerimoniais.  
-	Facas que carregam o peso inigualável de uma promessa quebrada.
+	Facas que carregam o peso inigualável de uma promessa quebrada.  
